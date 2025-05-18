@@ -4,7 +4,7 @@ A React application featuring user authentication with login/logout functionalit
 
 ## Live Demo
 
-[https://six-sem-training-project.onrender.com](https://six-sem-training-project.onrender.com)
+[https://six-sem-training-project.onrender.com](https://sixth-sem-training-project.onrender.com)
 
 
 ## Features
